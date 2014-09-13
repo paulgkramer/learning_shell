@@ -22,3 +22,5 @@ for number in {1..100}; do
 done
 
 test
+
+test 1
