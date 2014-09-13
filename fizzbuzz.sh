@@ -20,3 +20,5 @@ function fizzOrBuzz {
 for number in {1..100}; do
   echo "-`fizzOrBuzz $number`"
 done
+
+test
